@@ -19,21 +19,23 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Felicia Bacon
-email: your-email@example.com
+email: feliciaiveliz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software Engineering Student at Launch School.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  feliciaiveliz
 
 # Build settings
 theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-gist
 
 remote_theme: fongandrew/hydeout
+
 sidebar_home_link: true
 # Exclude from processing.
 # The following items will not be processed, by default.

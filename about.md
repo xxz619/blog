@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
-sidebar-link: true
+sidebar_link: true
 ---
 
 First Blog.
