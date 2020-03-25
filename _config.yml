@@ -34,6 +34,7 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
 
+paginate: 3
 remote_theme: fongandrew/hydeout
 
 sidebar_home_link: true
