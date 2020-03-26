@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Howdy People!" 
 date:   2020-03-25 09:05:44 -0500
 categories: 
 - Life
