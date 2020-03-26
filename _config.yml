@@ -23,7 +23,7 @@ email: feliciaiveliz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software Engineering Student at Launch School.
 baseurl: "/feliciaiveliz" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.feliciabacon.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  feliciaiveliz
 
