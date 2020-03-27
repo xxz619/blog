@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-## Howdy!
+# Howdy!
 
 I’m Felicia, an aspiring software engineer studying at Launch Schoo! I started out this endeavor self-taught, reading from random books and finding all the resources online that I could to teach myself how to code. I was in the middle of Free Code Camp when I realized that I needed a more in-depth curriculum that focused on fundamentals. That's how I stumbled upon Launch School, and decided that I would give myself the best chance to becoming a software engineer. Besides studying for school, I love to play videos games (currently struggling through Bloodborne), read books, crochet, watch paranormal shows and hang out with my little family! 
 
