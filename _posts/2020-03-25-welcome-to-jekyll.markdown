@@ -24,5 +24,5 @@ Sometimes I can surprise myself. In the last post I talked a bit about the Launc
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>I just want to say to the nothingness that's reading this right now, I really can't do anything worthwhile in this life now without Vin and my family. If he didn't calm down that morning, I would have been an anxious, nervous crying wreck throughout the whole test. I looked at a picture of my two sisters and I when we were tots seconds before I hit 'start', and it immediately calmed me down. I feel so lucky to have my family. </p>
+<p>I just want to say quickly how important (at least for me) it is to have a solid support system. My family took a while to be convinced this school was a good idea but after that, they've been instrumental in my success thus far.</p>
 <!-- /wp:paragraph -->
