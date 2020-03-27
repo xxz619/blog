@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Software Engineering Student at Launch School.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://feliciabacon.com # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: hey_leasha
 github_username:  feliciaiveliz
 youtube: Felicia Bacon
 email: feliciaiveliz
@@ -38,9 +38,13 @@ plugins:
   - jekyll-gist
 
 paginate: 3
+paginate_path: '/page/:num'
 remote_theme: fongandrew/hydeout
 
 sidebar_home_link: true
+enable_disqus: true
+enable_commento: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
