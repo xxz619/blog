@@ -1,8 +1,11 @@
 ---
 layout: page
-title: About
+title: 
 sidebar_link: true
 ---
+
+
+<img src="me2.jpg" alt="me" width="200"/>
 
 # Howdy!
 

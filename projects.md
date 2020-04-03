@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-siderbar-link: true
+sidebar_link: true
 categories:
 - Sewing
 - Crochet
