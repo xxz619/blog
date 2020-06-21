@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: About Me
 sidebar_link: true
 ---
 
@@ -15,4 +15,4 @@ This is my first professional blog so it will be a place for me to chronicle my 
 
 ## On Setting Up My Blog
 
-This blog was created using Jekyll, with the Hydeout theme. I couldn't have gotten this site running if it were not for ideas from public repositories, and more specifically, those from Juliette Sinibardy. She mentioned Ryan Kozak and Laura Tebben in her own blog and those really helped me to install Hydeout. I will attempt to write a detail how-to guide based on what I had to do to get my blog running, so look out for that post. 
+This blog was created using Jekyll, with the Hydeout theme. I couldn't have gotten this site running if it were not for ideas from public repositories, and more specifically, those from Juliette Sinibardy. She mentioned Ryan Kozak and Laura Tebben in her own blog and those really helped me to install Hydeout. 
