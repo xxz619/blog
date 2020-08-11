@@ -10,6 +10,8 @@ I'm excited to finally get going on this blog. I was working with Windows when I
 
 At first I wanted to write a post about my exact path to get this blog up, but because I ran into so many issues and basically hacked and slashed my way here, I decided that it probably wouldn't help anyone. This blog was creating using Jekyll, a Ruby Gem that creates a barebones website for you so that you could customize it to your liking. You can go to [Jekyll's](https://jekyllrb.com/) website and follow the instructions on how to download everything you need for Mac, Linux and Windows.
 
+<!--more-->
+
 Once you get that downloaded, you can follow this video series hosted by Mike Dane. Because of problems I ran into on my own system, I couldn't follow it exactly, but the entire video series was instrumental in helping me get this blog up. You can watch it [here](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB).
 
 I was inspired by a few people, including Juliette Sinibardy (who happens to go to the same online school I do), and in her own blog she mentions two other people that have helped her in her journey to setting up her website, Laura Tebben and Ryan Kozak. 
