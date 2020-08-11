@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 
-<img src="me2.jpg" alt="me" width="200"/>
+<img src="picture.jpg" alt="me" width="200"/>
 
 # Howdy!
 

@@ -12,7 +12,7 @@ At first I wanted to write a post about my exact path to get this blog up, but b
 
 Once you get that downloaded, you can follow this video series hosted by Mike Dane. Because of problems I ran into on my own system, I couldn't follow it exactly, but the entire video series was instrumental in helping me get this blog up. You can watch it [here](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB).
 
-I was inspired by a few people, including Juliette Sinibardy (who happens to go to the same online school I do), and in her own blog she mentions two other people that have helped her in her jounrey to setting up her website, Laura Tebben and Ryan Kozak. 
+I was inspired by a few people, including Juliette Sinibardy (who happens to go to the same online school I do), and in her own blog she mentions two other people that have helped her in her journey to setting up her website, Laura Tebben and Ryan Kozak. 
 
 It was a journey for me in sweat and sometimes literal tears, but it was worth it. My first blog was created on Wordpress, and although the theme I chose is lovely, I didn't like the fact that ads would pop up randomly. I wanted more control over how the blog looked in terms of colors and layouts, and also only the content that I wanted and nothing I didn't ask for. 
 
