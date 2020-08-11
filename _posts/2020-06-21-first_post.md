@@ -6,7 +6,7 @@ categories:
 - Life
 ---
 
-Hey there friend! I'm excited to finally get going on this blog. I was working with Windows when I first started it, but ran into so many issues with updates and whatnot. Months later, I've switched to Zorin OS and it's absolutely wonderful. I thought that I would forget how to do this or just have to start over, but turns out it was much easier to get it back up and running this time around. 
+I'm excited to finally get going on this blog. I was working with Windows when I first started it, but ran into so many issues with updates and whatnot. Months later, I've switched to Zorin OS and it's absolutely wonderful. I thought that I would forget how to do this or just have to start over, but turns out it was much easier to get it back up and running this time around. 
 
 At first I wanted to write a post about my exact path to get this blog up, but because I ran into so many issues and basically hacked and slashed my way here, I decided that it probably wouldn't help anyone. This blog was creating using Jekyll, a Ruby Gem that creates a barebones website for you so that you could customize it to your liking. You can go to [Jekyll's](https://jekyllrb.com/) website and follow the instructions on how to download everything you need for Mac, Linux and Windows.
 
