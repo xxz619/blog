@@ -2,6 +2,7 @@
 layout: post
 title: "How to Set Up a Jekyll Website"
 excerpt_separator: <!--more-->
+permalink: setup-jekyll-blog
 categories: 
 - How-to
 ---
@@ -11,6 +12,8 @@ If you want to set up a blog like this one for yourself, then read on for a step
 **Note**: I am using Linux as my operating system, so some steps might vary if you're on a Mac or using Windows.
 
 Here's the link for the [Jekyll](https://jekyllrb.com/) website; some steps will be taken directly from there.
+
+<!--more-->
 
 ## **Installing Ruby**
 
