@@ -2,6 +2,7 @@
 layout: post
 title: "Howdy!"
 excerpt_separator: <!--more-->
+permalink: my-first-post
 categories: 
 - Life
 ---
