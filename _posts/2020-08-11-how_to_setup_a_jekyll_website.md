@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "How to Set Up a Jekyll Website"
 excerpt_separator: <!--more-->
 permalink: setup-jekyll-blog
