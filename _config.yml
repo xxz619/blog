@@ -42,8 +42,9 @@ paginate_path: '/page/:num'
 remote_theme: fongandrew/hydeout
 
 sidebar_home_link: true
-enable_disqus: true
+enable_disqus: false
 enable_commento: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
