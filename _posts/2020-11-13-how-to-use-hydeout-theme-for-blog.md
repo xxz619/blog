@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Use the Hydeout theme for your Jekyll Website"
+title: "How to Setup Your Website to Use the Hydeout Theme"
 excerpt_separator: <!--more-->
 permalink: setup-jekyll-blog
 categories: 
