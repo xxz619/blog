@@ -16,10 +16,6 @@ If you want to set up a blog like this one for yourself, then read on for a step
 
 <!--more-->
 
-## Creating a Profile on Github
-
-You can skip this step if you already have a Github account. Github pages is where your blog files will be kept. 
-
 ## **Installing Ruby**
 
 - **Install Ruby Installer**: [latest version](https://rubyinstaller.org/downloads/)
