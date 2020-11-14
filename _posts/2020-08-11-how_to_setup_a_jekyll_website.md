@@ -95,5 +95,6 @@ Now that the remote repo is set up to receive our files, we need to commit those
 3. Type: `git branch -M main`
 4. Finally, type: `git push -u origin main`
 
-Now if you go back to your Github repository page and refresh, you should see all the files now in your remote repository.
+Now if you go back to your Github repository page and refresh, you should see all the files now in your remote repository. 
 
+Congrats! You have now created a blog using Jekyll!
