@@ -85,7 +85,7 @@ Go to the [Github](https://github.com/) website to create a github account.
 
 ### Creating a remote repository
 
-Now we have to create the remote repository on Github to where we are going our code to. On the `Repositories` tab, you'll see a green button that says `new`. Click on that to create the repo. Where it says `Repository name *`, type the name that you want for your website. Below that you can create a description and make it either public or private. Create the repository.
+Now we have to create the remote repository on Github to where we are going push our code to. On the `Repositories` tab, you'll see a green button that says `new`. Click on that to create the repo. Where it says `Repository name *`, type the name that you want for your website. Below that you can create a description and make it either public or private. Create the repository.
 
 Now that the remote repo is set up to receive our files, we need to commit those files and connect the remote and local repos to each other. 
 
