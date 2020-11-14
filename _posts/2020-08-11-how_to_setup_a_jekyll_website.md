@@ -90,7 +90,7 @@ Now we have to create the remote repository on Github to where we are going push
 Now that the remote repo is set up to receive our files, we need to commit those files and connect the remote and local repos to each other. 
 
 1. Type: `git add .`
-2. Type: `git commit -m 'Adding files'
+2. Type: `git commit -m 'Adding files`
   - After the `-m`, you can add any message you want that briefly explains what you are doing
 3. Type: `git branch -M main`
 4. Finally, type: `git push -u origin main`
