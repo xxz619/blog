@@ -49,7 +49,7 @@ If you want to set up a blog like this one for yourself, then read on for a step
    - Type: `cd <your blog name>`
    - Example: `cd felicia_blog`
 
-- Now we're going to start our website on our localhost by navigating to: `localhost:4000`. To actually start up the website for the first time, you need to type `bundle exec jekyll serve`. Once it's running, you'll see in the terminal `Server address: http://127.0.0.1:4000/` or something similar. Hit `ctrl` + click and it should take you to the basic jekyll website at that location. After that, you only need to type `jekyll serve` to start up the website.
+- Now we're going to start our website on localhost by navigating to: `localhost:4000`. To actually start up the website for the first time, you need to type `bundle exec jekyll serve`. Once it's running, you'll see in the terminal `Server address: http://127.0.0.1:4000/` or something similar. Hit `ctrl` + click and it should take you to the basic jekyll website at that location. After that, you only need to type `jekyll serve` to start up the website.
 
 ## What's Included in the Basic Jekyll Blog
 
@@ -64,7 +64,7 @@ If you want to set up a blog like this one for yourself, then read on for a step
     - `404.html`
     - `about.md`: This is our about page for our website.
     - `Gemfile`: This file specifies various gem dependencies for your website. 
-    - `Gemfile.lock`: 
+    - `Gemfile.lock`: This file is created after you run `bundle install` if you make a change to a Gemfile
     - `index.md`
 
 ## Creating our local and remote repositories
