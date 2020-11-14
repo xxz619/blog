@@ -81,13 +81,15 @@ Go to the [Github](https://github.com/) website to create a github account.
 
 ### Creating a remote repository
 
-Now we have to create the remote repository on Github to where we are going push our code to. On the `Repositories` tab, you'll see a green button that says `new`. Click on that to create the repo. Where it says `Repository name *`, type the name that you want for your website. Below that you can create a description and make it either public or private. Create the repository. Now that the remote repo is set up to receive our files, we need to commit those files and connect the remote and local repos to each other. 
+Now we have to create the remote repository on Github to where we are going push our code to. On the `Repositories` tab, you'll see a green button that says `new`. Click on that to create the repo. Where it says `Repository name *`, type the name that you want for your website. Below that you can create a description and make it either public or private. Create the repository. Now that the remote repo is set up to receive our files, we need to commit those files and connect the remote and local repos to each other. You should see a little clipboard icon with a url inside of a box. Click the clipboard to copy the address, as this will be used in the terminal in the next step.
 
-1. Type: `git add .`
-2. Type: `git commit -m 'Adding files`
+1. Type: `git remote add origin <url address of your newly created website>`
+  - Example: `https://github.com/<your username>/felicia_blog.git`
+2. Type: `git add .`
+3. Type: `git commit -m 'Adding files'`
   - After the `-m`, you can add any message you want that briefly explains what you are doing
-3. Type: `git branch -M main`
-4. Finally, type: `git push -u origin main`
+4.Type: `git branch -M main`
+5.Finally, type: `git push -u origin main`
 
 Now if you go back to your Github repository page and refresh, you should see all the files now in your remote repository. 
 
