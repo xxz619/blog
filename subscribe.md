@@ -14,7 +14,7 @@ sidebar_link: true
 <div id="mc_embed_signup">
 <form action="https://feliciabacon.us17.list-manage.com/subscribe/post?u=245129d0caa44c2379f3c86cf&amp;id=85920c6a55" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>If you want to follow my blog, sign up to receive notifications of new posts by email!</h2>
+	<h2>If you want to follow my blog, sign up to receive notifications of new articles that I write!</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
