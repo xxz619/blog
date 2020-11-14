@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-sidebar_link: true
+sidebar_link: 
 categories:
 - How-to
 - Launch School
