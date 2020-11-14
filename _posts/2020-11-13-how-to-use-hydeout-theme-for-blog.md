@@ -7,7 +7,7 @@ categories:
 - How-to
 tags:
 - Jekyll
-- Github
+- Hydeout
 ---
 
 In the last post title "How to Set Up a Jekyll Website", I walked you through how to set up a website or blog. In this post, I will show you how to setup your blog or website to use the Hydeout theme. It is the theme that is used for my own personal blog. It's simple, clean and looks great. There are several steps that are needed to make this work and I can't guarantee that it will work for everyone. It has worked for me. 

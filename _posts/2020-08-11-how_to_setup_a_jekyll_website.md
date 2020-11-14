@@ -7,7 +7,7 @@ categories:
 - How-to
 tags:
 - Jekyll
-- Gihub
+- Github
 ---
 
 If you want to set up a blog like this one for yourself, then read on for a step-by-step guide on how to get your blog going with Jekyll. 
