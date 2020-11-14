@@ -64,7 +64,7 @@ If you want to set up a blog like this one for yourself, then read on for a step
     - `404.html`
     - `about.md`: This is our about page for our website.
     - `Gemfile`: This file specifies various gem dependencies for your website. 
-    - `Gemfile.lock`: This file is created after you run `bundle install` if you make a change to a Gemfile.
+    - `Gemfile.lock`: This file is created after you run `bundle install` if you make a change to the Gemfile.
     - `index.md`
 
 ## Creating our local and remote repositories
