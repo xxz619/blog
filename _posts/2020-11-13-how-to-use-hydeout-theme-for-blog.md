@@ -14,6 +14,8 @@ In the last post title "How to Set Up a Jekyll Website", I walked you through ho
 
 **Note: I'm not an expert on setting up Jekyll sites and I'm not sure why some problems may occur. That said, sometimes, you may need to run `bundle exec jekyll serve` instead of `jekyll serve` to get the site running properly.
 
+<!--more-->
+
 Go to the [Hydeout](https://github.com/fongandrew/hydeout) theme Github repository. Where it says usage, it is mentioned that you need to add the Jekyll theme Hydeout Ruby Gem to your Gemfile.
 
 1. Add: `gem "jekyll-theme-hydeout" to the Gemfile
