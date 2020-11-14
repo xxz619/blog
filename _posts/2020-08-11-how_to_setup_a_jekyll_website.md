@@ -45,13 +45,15 @@ You can skip this step if you already have a Github account. Github pages is whe
    - This installs Jekyll on your system
    - run `jekyll -v` to make sure it is properly installed
 
-- Now we are going to create our blog! Navigate to the folder location on your system for where you want your website to be stored. In this command, put the name that you want for the blog you're creating; for example `felicia_blog`. 
+- Now we are going to create our blog! Navigate to the folder location on your system for where you want your website to be stored. In this command, put the name that you want for the blog you're creating. For example: `felicia_blog`. 
    - Type: `jekyll new <your blog name>`
+   - Example: `jekyll new felicia_blog`
 
-- Move into your blog directory: `cd <your blog name>`
+- Move into your blog directory.
+   - Type: `cd <your blog name>`
+   - Example: `cd felicia_blog`
 
-- Now we're going to start our website on our localhost: `localhost:4000`. The first time you need to run this command, but after this first time you only need to type `jekyll serve`.
-  - Type `bundle exec jekyll serve`
+- Now we're going to start our website on our localhost by navigating to: `localhost:4000`. To actually start up the website for the first time, you need to type `bundle exec jekyll serve`. Once it's running, you'll see in the terminal `Server address: http://127.0.0.1:4000/` or something similar. Hit `ctrl` + click and it should take you to the basic jekyll website at that location. After that, you only need to type `jekyll serve` to start up the website.
 
 ## What's Included in the Basic Jekyll Blog
 
@@ -71,7 +73,27 @@ You can skip this step if you already have a Github account. Github pages is whe
 
 ## Hosting your Jekyll Website on Github Pages
 
-# First install Git
+Before we create our repository and push our files, we need to initialize our local repository. In the terminal where our files are located, type `git init`. This initializes the local repo and allows us to push our files to our remote repo that will be our website on Github.
 
-# Have Github account
+### Install Git
+
+Go to the [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) website to find instructions on how to install Git onto your system.
+
+### Have a Github account
+
+Go to the [Github](https://github.com/) website to create a github account.
+
+### Creating a remote repository
+
+Now we have to create the remote repository on Github to where we are going our code to. On the `Repositories` tab, you'll see a green button that says `new`. Click on that to create the repo. Where it says `Repository name *`, type the name that you want for your website. Below that you can create a description and make it either public or private. Create the repository.
+
+Now that the remote repo is set up to receive our files, we need to commit those files and connect the remote and local repos to each other. 
+
+1. Type: `git add .`
+2. Type: `git commit -m 'Adding files'
+  - After the `-m`, you can add any message you want that briefly explains what you are doing
+3. Type: `git branch -M main`
+4. Finally, type: `git push -u origin main`
+
+Now if you go back to your Github repository page and refresh, you should see all the files now in your remote repository.
 
