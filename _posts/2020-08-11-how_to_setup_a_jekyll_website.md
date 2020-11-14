@@ -71,7 +71,7 @@ You can skip this step if you already have a Github account. Github pages is whe
     - `Gemfile.lock`: 
     - `index.md`
 
-## Hosting your Jekyll Website on Github Pages
+## Creating our local and remote repositories
 
 Before we create our repository and push our files, we need to initialize our local repository. In the terminal where our files are located, type `git init`. This initializes the local repo and allows us to push our files to our remote repo that will be our website on Github.
 
@@ -85,9 +85,7 @@ Go to the [Github](https://github.com/) website to create a github account.
 
 ### Creating a remote repository
 
-Now we have to create the remote repository on Github to where we are going push our code to. On the `Repositories` tab, you'll see a green button that says `new`. Click on that to create the repo. Where it says `Repository name *`, type the name that you want for your website. Below that you can create a description and make it either public or private. Create the repository.
-
-Now that the remote repo is set up to receive our files, we need to commit those files and connect the remote and local repos to each other. 
+Now we have to create the remote repository on Github to where we are going push our code to. On the `Repositories` tab, you'll see a green button that says `new`. Click on that to create the repo. Where it says `Repository name *`, type the name that you want for your website. Below that you can create a description and make it either public or private. Create the repository. Now that the remote repo is set up to receive our files, we need to commit those files and connect the remote and local repos to each other. 
 
 1. Type: `git add .`
 2. Type: `git commit -m 'Adding files`
@@ -96,5 +94,9 @@ Now that the remote repo is set up to receive our files, we need to commit those
 4. Finally, type: `git push -u origin main`
 
 Now if you go back to your Github repository page and refresh, you should see all the files now in your remote repository. 
+
+## Hosting your Jekyll Website on Github Pages
+
+On the `settings` tab on your remote repository, scroll down to where it says `Github Pages`. Where it says source, choose the source where your website will be built from. I chose `main` for mine. Click `save`. Underneath that you can choose a theme for your blog or website. Once it is saved and you refresh the page, you will see a green message that says your website will be hosted at the url given to you. If you click on it, it should take you to your website.
 
 Congrats! You have now created a blog using Jekyll!
