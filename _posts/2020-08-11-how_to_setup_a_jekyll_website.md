@@ -64,7 +64,7 @@ If you want to set up a blog like this one for yourself, then read on for a step
     - `404.html`
     - `about.md`: This is our about page for our website.
     - `Gemfile`: This file specifies various gem dependencies for your website. 
-    - `Gemfile.lock`: This file is created after you run `bundle install` if you make a change to a Gemfile
+    - `Gemfile.lock`: This file is created after you run `bundle install` if you make a change to a Gemfile.
     - `index.md`
 
 ## Creating our local and remote repositories
@@ -88,8 +88,8 @@ Now we have to create the remote repository on Github to where we are going push
 2. Type: `git add .`
 3. Type: `git commit -m 'Adding files'`
   - After the `-m`, you can add any message you want that briefly explains what you are doing
-4.Type: `git branch -M main`
-5.Finally, type: `git push -u origin main`
+4. Type: `git branch -M main`
+5. Finally, type: `git push -u origin main`
 
 Now if you go back to your Github repository page and refresh, you should see all the files now in your remote repository. 
 
