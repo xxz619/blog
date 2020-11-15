@@ -6,7 +6,7 @@ sidebar_link: true
 
 ## Skills
 
-Skill | Basic | Novice | Intermediate | Advanced |
+|Skill | Basic | Novice | Intermediate | Advanced |
 |----|----|----|----|----|
 |Ruby|    |    | x  |    |
 |OOP (Ruby)|   |    |  x |
