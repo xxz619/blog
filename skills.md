@@ -4,8 +4,6 @@ title: Skills
 sidebar_link: true
 ---
 
-## Skills
-
 |Skill | Basic | Novice | Intermediate | Advanced |
 |----|----|----|----|----|
 |Ruby|    |    | x  |    |
