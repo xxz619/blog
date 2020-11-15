@@ -15,16 +15,16 @@ sidebar_link: true
 
 **Skills & Languages**
 
-[x] Ruby
-[x] Gems
-[x] OOP
-[x] Git
-[x] Github
-[x] C 
-[x] Linux
-[x] Sinatra
-[x] Rack
-[x] Minitest
-[x] HTML/CSS
-[x] Heroku
-[x] HTTP/HTTPS
+- [x] Ruby
+- [x] Gems
+- [x] OOP
+- [x] Git
+- [x] Github
+- [x] C 
+- [x] Linux
+- [x] Sinatra
+- [x] Rack
+- [x] Minitest
+- [x] HTML/CSS
+- [x] Heroku
+- [x] HTTP/HTTPS
