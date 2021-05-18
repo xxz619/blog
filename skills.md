@@ -20,3 +20,5 @@ sidebar_link: true
 |HTTPS|   |    | x  |    | 
 |Heroku|  | x  |    |    | 
 |HTML/CSS | x  |    |    |
+|Javascript |x |    |    | 
+|Python | x |  |    |    |
