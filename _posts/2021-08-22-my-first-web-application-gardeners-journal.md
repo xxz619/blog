@@ -24,7 +24,6 @@ There's no need to login and use a password for this application. You can just j
 
 Thanks for reading!
 
-
 Here are some screenshots of the application. Note: The application will display differnetly on different browsers. It looks best on Google Chrome.
 
 Front page of the application:
