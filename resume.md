@@ -28,3 +28,5 @@ sidebar_link: true
 - [x] HTML/CSS
 - [x] Heroku
 - [x] HTTP/HTTPS
+- [x] SQL
+- [x] PostgreSQL
