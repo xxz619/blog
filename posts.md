@@ -4,7 +4,7 @@ title: Posts
 sidebar_link: true
 ---
 
-## [My First Web Application: Gardener's Journal](https://www.feliciabacon.com/garderners-journal)
+## [My First Web Application: Gardener's Journal](https://www.feliciabacon.com/gardeners-journal)
 **August 22nd, 2021 | Projects**
 
 Introducing **Gardener's Journal**! This is the first web application that I've built with Ruby and Sinatra. This is an optional project from Launch School's RB175 Networked Applications Course.
