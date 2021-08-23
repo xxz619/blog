@@ -44,6 +44,7 @@ remote_theme: fongandrew/hydeout
 sidebar_home_link: true
 enable_disqus: false
 enable_commento: true
+future: true
 
 
 # Exclude from processing.
