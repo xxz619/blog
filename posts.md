@@ -26,7 +26,7 @@ If you want to set up a blog like this one for yourself, then read on for a step
 
 ---
 
-## [Howdy!](https://www.feliciabacon.com/my-first-post)
+## [Greetings!](https://www.feliciabacon.com/my-first-post)
 **June 21st, 2020 | Life**
 
 It's finally done! I am excited to finally have a working blog with Jekyll! 
