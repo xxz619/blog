@@ -15,6 +15,8 @@ It's been a while since I've written anything. After a long time of not working 
 
 Alas, here I will reflect on my life and journey through Launch School over the past 9 months. It's been crazy! There's so many things that Launch School has taught me, so I might actually create seperate posts for each course and use that as a way to review material that I haven't seen in so long. For now though, I can simply list them all with a brief overview. 
 
+<!--more-->
+
 I think about a year ago I finished course LS170/171 - Networking Foundations. That was an interesting course because we got to see just what constitutes the "internet". It's made up of a bunch of layers, each with their own levels of responsibility. They can all work together because of a concept called "encapsulation". Basically, each level does their own thing and passes data to the next layer. The layers don't need to worry about what the other layers are doing, just as long as they do their job. Obviously,  it's way more than this and I'm just generalizing about the layers, but I will definitely write more about this later on because wow, there's a boatload of information in this course. It had my head spinning when I was starting to learn it all, that's for sure!
 
 After that I created my first web application using Ruby and Sinatra, as part of course RB175. It's called Gardener's Journal. I wanted something that I could use personally, to keep track of everything that I plant. It was fun! I could easily spend *hours* without stopping on putting together an application. It was challanging but rewarding and after more progress is made in my current Javascript courses, I hope to put together another one, this time in Rails. 
