@@ -30,3 +30,4 @@ sidebar_link: true
 - [x] HTTP/HTTPS
 - [x] SQL
 - [x] PostgreSQL
+- [x] Javascript
