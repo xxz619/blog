@@ -17,7 +17,7 @@ sidebar_link: true
 
 - [x] Ruby
 - [x] Gems
-- [x] OOP
+- [x] OOP in Ruby
 - [x] Git
 - [x] Github
 - [x] C 
