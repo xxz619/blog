@@ -4,6 +4,13 @@ title: Posts
 sidebar_link: true
 ---
 
+## [Reflections at the (More Than) Halfway Mark](https://www.feliciabacon.com/reflections)
+**August 23rd, 2021 | Life**
+
+I'm a little more than halfway done with Launch School and I am currently learning how to interview in Javascript. I've learned so much in the past year and will do a better job at documenting it from here on out.
+
+---
+
 ## [My First Web Application: Gardener's Journal](https://www.feliciabacon.com/gardeners-journal)
 **August 22nd, 2021 | Projects**
 
