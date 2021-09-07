@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Array Processing Abstractions"
+title: "Array Processing Abstractions (Part 1)"
 excerpt_separator: <!--more-->
 permalink: "array-abstractions"
 categories:
