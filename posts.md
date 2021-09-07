@@ -4,6 +4,13 @@ title: Posts
 sidebar_link: true
 ---
 
+## ["Array Processing Abstractions"](https://www.feliciabacon.com/array-abstractions)
+**September 3rd, 2021 | Education**
+
+This article talks about 3 array abstractions in Javascript: `forEach`, `filter`, and `map`. 
+
+---
+
 ## [Reflections at the (More Than) Halfway Mark](https://www.feliciabacon.com/reflections)
 **August 23rd, 2021 | Life**
 
