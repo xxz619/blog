@@ -4,7 +4,7 @@ title: "Array Processing Abstractions"
 excerpt_separator: <!--more-->
 permalink: "array-abstractions"
 categories:
-- Education
+- Learn
 tags:
 - Launch School
 - Arrays
